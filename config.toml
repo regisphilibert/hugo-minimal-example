@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 [[menu.main]]
-name = "Google"
+name = "Contact"
 parent = "About"
 url = "https://www.google.com"
 weight = 1
