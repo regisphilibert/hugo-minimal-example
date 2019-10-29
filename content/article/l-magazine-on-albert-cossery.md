@@ -12,7 +12,7 @@ featured_image_position:
 menu:
   main:
     name: An Article
-    weight: 1
+    weight: 2
     parent: About
 draft: true
 
