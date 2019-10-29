@@ -5,6 +5,7 @@ description: 'A few years ago, while visiting or, rather, rummaging about Notre-
   word, engraved by hand upon the wall: —ANANKE.'
 menu:
   main:
+    name: About Root
     weight: 1
 
 ---
