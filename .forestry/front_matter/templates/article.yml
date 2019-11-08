@@ -1,0 +1,44 @@
+---
+label: Article
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: gallery
+  label: gallery
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: related_contributors
+  label: related_contributors
+- type: list
+  name: related_books
+  label: related_books
+- type: field_group
+  name: featured_image
+  label: featured_image
+  fields:
+  - type: file
+    name: file
+    label: file
+  - type: text
+    name: caption
+    label: caption
+- type: boolean
+  name: featured
+  label: featured
+- type: list
+  name: authors
+  label: authors
+- type: text
+  name: description
+  label: description
+- type: text
+  name: headerClasses
+  label: headerClasses
+- type: text
+  name: cover_image
+  label: cover_image
