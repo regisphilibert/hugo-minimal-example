@@ -11,12 +11,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: list
-  name: related_contributors
-  label: related_contributors
-- type: list
-  name: related_books
-  label: related_books
 - type: field_group
   name: featured_image
   label: featured_image
