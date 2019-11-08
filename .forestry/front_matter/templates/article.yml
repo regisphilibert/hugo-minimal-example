@@ -34,4 +34,5 @@ fields:
   name: cover_image
   label: cover_image
 pages:
+- content/article/Something Bad is not something bad.md
 - content/article/something-good-is-not-something-good.md
